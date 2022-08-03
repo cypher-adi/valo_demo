@@ -15,7 +15,7 @@ const Navbar = () => {
             </Typography>
             <Button
               component={NavLink}
-              to="/"
+              to="/valo_demo/"
               style={({ isActive }) => {
                 return { backgroundColor: isActive ? '#FD4556' : '' };
               }}
