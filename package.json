@@ -1,6 +1,6 @@
 {
   "name": "valopg",
-  "homepage":"https://cypher-adi.github.io/valo_demo",
+  "homepage":"https://cypher-adi.github.io/valo_demo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
