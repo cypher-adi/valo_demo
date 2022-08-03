@@ -32,7 +32,7 @@ const Navbar = () => {
             </Button>
             <Button
               component={NavLink}
-              to="/rules"
+              to="/valo_demo/rules"
               style={({ isActive }) => {
                 return { backgroundColor: isActive ? '#FD4556' : '' };
               }}
@@ -49,7 +49,7 @@ const Navbar = () => {
             </Button>
             <Button
               component={NavLink}
-              to="/contactus"
+              to="/valo_demo/contactus"
               style={({ isActive }) => {
                 return { backgroundColor: isActive ? '#FD4556' : '' };
               }}
