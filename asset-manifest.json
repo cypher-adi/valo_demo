@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valo_demo/static/css/main.691f1a43.css",
-    "main.js": "/valo_demo/static/js/main.5e4854cd.js",
+    "main.js": "/valo_demo/static/js/main.0fd274e8.js",
     "static/media/valo.jpg": "/valo_demo/static/media/valo.fa7bebcff2a6f3e8a998.jpg",
     "static/media/main1.jpg": "/valo_demo/static/media/main1.f0602d19b3f232686d21.jpg",
     "static/media/phx.jpg": "/valo_demo/static/media/phx.3a183a988cc4fa3a44aa.jpg",
@@ -11,10 +11,10 @@
     "static/media/bg.png": "/valo_demo/static/media/bg.d3bd05bd5b0f241d4fae.png",
     "index.html": "/valo_demo/index.html",
     "main.691f1a43.css.map": "/valo_demo/static/css/main.691f1a43.css.map",
-    "main.5e4854cd.js.map": "/valo_demo/static/js/main.5e4854cd.js.map"
+    "main.0fd274e8.js.map": "/valo_demo/static/js/main.0fd274e8.js.map"
   },
   "entrypoints": [
     "static/css/main.691f1a43.css",
-    "static/js/main.5e4854cd.js"
+    "static/js/main.0fd274e8.js"
   ]
 }
