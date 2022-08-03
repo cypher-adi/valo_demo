@@ -8,7 +8,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/valo_demo" element={<Layout />}>
+          <Route path="/valo_demo/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="/rules" element={<Rules />} />
             <Route path="/contactus" element={<Contactus />} />
