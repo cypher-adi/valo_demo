@@ -1,0 +1,19 @@
+#Rules{
+    background-color: #53212B;
+    color: aliceblue;
+}
+
+
+.image{
+     
+    width: 100%;
+
+}
+
+
+.heading{
+ margin-bottom: 2px;
+ padding: 5% 10%;
+ font-family: 'Cormorant SC', serif;
+
+}

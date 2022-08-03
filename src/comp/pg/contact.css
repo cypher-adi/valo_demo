@@ -1,0 +1,21 @@
+.bg{
+width:100%;
+opacity: 60%;
+}
+
+.word{
+ background-color: #53212B;
+ color: antiquewhite;
+text-align: center;
+}
+
+h3{
+    font-family: 'Cormorant SC', serif;
+    font-size: 3.5rem;
+    font-weight: 100;
+}
+
+.icon{
+padding: 2% 2%;
+
+}
