@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/valo_demo/static/css/main.691f1a43.css",
+    "main.js": "/valo_demo/static/js/main.3d161d05.js",
+    "static/media/valo.jpg": "/valo_demo/static/media/valo.fa7bebcff2a6f3e8a998.jpg",
+    "static/media/main1.jpg": "/valo_demo/static/media/main1.f0602d19b3f232686d21.jpg",
+    "static/media/phx.jpg": "/valo_demo/static/media/phx.3a183a988cc4fa3a44aa.jpg",
+    "static/media/viper.jpg": "/valo_demo/static/media/viper.7fedf31c49054b3fd73d.jpg",
+    "static/media/main.jpg": "/valo_demo/static/media/main.0330a8f6c662e740b8b8.jpg",
+    "static/media/jettc1.jpg": "/valo_demo/static/media/jettc1.a7d79cb6d0c44f59b0bb.jpg",
+    "static/media/bg.png": "/valo_demo/static/media/bg.d3bd05bd5b0f241d4fae.png",
+    "index.html": "/valo_demo/index.html",
+    "main.691f1a43.css.map": "/valo_demo/static/css/main.691f1a43.css.map",
+    "main.3d161d05.js.map": "/valo_demo/static/js/main.3d161d05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691f1a43.css",
+    "static/js/main.3d161d05.js"
+  ]
+}
